@@ -1,0 +1,677 @@
+{
+ "version": "2026-11-26",
+ "why": "docs/PHONE-CORE.md section 2: what a kingdoms or wealth film reads, by region; unpack each into home/",
+ "packs": [
+  {
+   "id": "earth",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/earth.tar.zst",
+   "sha256": "813a1d2d3dc2364a0cd1c36a0a08ab67b5664594aed744f50a5bd9abd23e0b5c",
+   "bytes": 6696386,
+   "covers": [
+    "all"
+   ],
+   "words": {},
+   "files": 5,
+   "public": true
+  },
+  {
+   "id": "kingdoms",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/kingdoms.tar.zst",
+   "sha256": "e35a2894c3a86a6f9254736880cd2a777a7b177961b6420d08d811dea0f2e439",
+   "bytes": 4301147,
+   "covers": [
+    "kingdoms"
+   ],
+   "words": {},
+   "files": 1,
+   "public": true
+  },
+  {
+   "id": "relief-africa-1",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-africa-1.tar.zst",
+   "sha256": "cfe131302bae31d762d4e419653c26133603e7d9cf7ac1ea690352638dd9bf73",
+   "bytes": 46269822,
+   "covers": [
+    "africa"
+   ],
+   "words": {
+    "africa": [
+     "africa",
+     "egypt",
+     "ethiopia",
+     "mali",
+     "ghana",
+     "kongo",
+     "congo",
+     "nigeria",
+     "sahara",
+     "swahili",
+     "kush",
+     "zimbabwe",
+     "asante",
+     "morocco",
+     "sudan",
+     "kenya"
+    ]
+   },
+   "files": 536,
+   "public": true
+  },
+  {
+   "id": "relief-africa-2",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-africa-2.tar.zst",
+   "sha256": "02778fce25f9130736fc4c72e88474a67470e8451816a35fe3c3bf8da40609f2",
+   "bytes": 46353418,
+   "covers": [
+    "africa"
+   ],
+   "words": {
+    "africa": [
+     "africa",
+     "egypt",
+     "ethiopia",
+     "mali",
+     "ghana",
+     "kongo",
+     "congo",
+     "nigeria",
+     "sahara",
+     "swahili",
+     "kush",
+     "zimbabwe",
+     "asante",
+     "morocco",
+     "sudan",
+     "kenya"
+    ]
+   },
+   "files": 648,
+   "public": true
+  },
+  {
+   "id": "relief-africa-3",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-africa-3.tar.zst",
+   "sha256": "3cd20b24e6573738b9d1be9ae48daae9f063f4b506705286434ade759099ff94",
+   "bytes": 46315494,
+   "covers": [
+    "africa"
+   ],
+   "words": {
+    "africa": [
+     "africa",
+     "egypt",
+     "ethiopia",
+     "mali",
+     "ghana",
+     "kongo",
+     "congo",
+     "nigeria",
+     "sahara",
+     "swahili",
+     "kush",
+     "zimbabwe",
+     "asante",
+     "morocco",
+     "sudan",
+     "kenya"
+    ]
+   },
+   "files": 603,
+   "public": true
+  },
+  {
+   "id": "relief-africa-4",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-africa-4.tar.zst",
+   "sha256": "75ab53fa2a3f78644c0c47781ebf2625188f0f8ac60c544efc3cc08fbe7e9e3c",
+   "bytes": 46329343,
+   "covers": [
+    "africa"
+   ],
+   "words": {
+    "africa": [
+     "africa",
+     "egypt",
+     "ethiopia",
+     "mali",
+     "ghana",
+     "kongo",
+     "congo",
+     "nigeria",
+     "sahara",
+     "swahili",
+     "kush",
+     "zimbabwe",
+     "asante",
+     "morocco",
+     "sudan",
+     "kenya"
+    ]
+   },
+   "files": 514,
+   "public": true
+  },
+  {
+   "id": "relief-africa-5",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-africa-5.tar.zst",
+   "sha256": "c5b0600c50e333d0f88bf84c63e83b78ee69ab2b319803066fcca428e96a12f8",
+   "bytes": 3180725,
+   "covers": [
+    "africa"
+   ],
+   "words": {
+    "africa": [
+     "africa",
+     "egypt",
+     "ethiopia",
+     "mali",
+     "ghana",
+     "kongo",
+     "congo",
+     "nigeria",
+     "sahara",
+     "swahili",
+     "kush",
+     "zimbabwe",
+     "asante",
+     "morocco",
+     "sudan",
+     "kenya"
+    ]
+   },
+   "files": 39,
+   "public": true
+  },
+  {
+   "id": "relief-americas-1",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-americas-1.tar.zst",
+   "sha256": "45d64ea500cd9961e04ffb09c54b7e883c0282fea43d2f3a51b7e0dfd987d326",
+   "bytes": 46285549,
+   "covers": [
+    "americas"
+   ],
+   "words": {
+    "americas": [
+     "america",
+     "mexico",
+     "aztec",
+     "inca",
+     "maya",
+     "andes",
+     "brazil",
+     "canada",
+     "caribbean",
+     "argentina",
+     "peru",
+     "chile"
+    ]
+   },
+   "files": 715,
+   "public": true
+  },
+  {
+   "id": "relief-americas-2",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-americas-2.tar.zst",
+   "sha256": "23d2e79b0be4bae84fc96ca1d44f50fa4ee877d0dc6ef380dfbba6e74dea583c",
+   "bytes": 46273577,
+   "covers": [
+    "americas"
+   ],
+   "words": {
+    "americas": [
+     "america",
+     "mexico",
+     "aztec",
+     "inca",
+     "maya",
+     "andes",
+     "brazil",
+     "canada",
+     "caribbean",
+     "argentina",
+     "peru",
+     "chile"
+    ]
+   },
+   "files": 487,
+   "public": true
+  },
+  {
+   "id": "relief-americas-3",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-americas-3.tar.zst",
+   "sha256": "d088ea650e8b9eb2e71acbc0634033576bf832b19c344f9b168f82922612e977",
+   "bytes": 46180961,
+   "covers": [
+    "americas"
+   ],
+   "words": {
+    "americas": [
+     "america",
+     "mexico",
+     "aztec",
+     "inca",
+     "maya",
+     "andes",
+     "brazil",
+     "canada",
+     "caribbean",
+     "argentina",
+     "peru",
+     "chile"
+    ]
+   },
+   "files": 397,
+   "public": true
+  },
+  {
+   "id": "relief-americas-4",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-americas-4.tar.zst",
+   "sha256": "18dbb1490b405d4ee4e20609990ec48002f8f3563676f7f0df080e56a35e8faa",
+   "bytes": 46332602,
+   "covers": [
+    "americas"
+   ],
+   "words": {
+    "americas": [
+     "america",
+     "mexico",
+     "aztec",
+     "inca",
+     "maya",
+     "andes",
+     "brazil",
+     "canada",
+     "caribbean",
+     "argentina",
+     "peru",
+     "chile"
+    ]
+   },
+   "files": 481,
+   "public": true
+  },
+  {
+   "id": "relief-americas-5",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-americas-5.tar.zst",
+   "sha256": "f96c7f6533d4b3a9465c942c331f52516385a13c14beaf2d98f9dc7feecd2550",
+   "bytes": 22098707,
+   "covers": [
+    "americas"
+   ],
+   "words": {
+    "americas": [
+     "america",
+     "mexico",
+     "aztec",
+     "inca",
+     "maya",
+     "andes",
+     "brazil",
+     "canada",
+     "caribbean",
+     "argentina",
+     "peru",
+     "chile"
+    ]
+   },
+   "files": 339,
+   "public": true
+  },
+  {
+   "id": "relief-asia-1",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-asia-1.tar.zst",
+   "sha256": "382d0303e32c3368052d89f5defcfd7d5a5c730c529b9ec5424a45cbe17802b4",
+   "bytes": 46224087,
+   "covers": [
+    "asia"
+   ],
+   "words": {
+    "asia": [
+     "asia",
+     "china",
+     "india",
+     "japan",
+     "korea",
+     "persia",
+     "iran",
+     "mongol",
+     "arab",
+     "ottoman",
+     "steppe",
+     "indonesia",
+     "vietnam"
+    ]
+   },
+   "files": 916,
+   "public": true
+  },
+  {
+   "id": "relief-asia-2",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-asia-2.tar.zst",
+   "sha256": "c0f184d2e3b917550fb58e2f97d26b49f690d53168d091aa2357e6a2e0266aef",
+   "bytes": 46191642,
+   "covers": [
+    "asia"
+   ],
+   "words": {
+    "asia": [
+     "asia",
+     "china",
+     "india",
+     "japan",
+     "korea",
+     "persia",
+     "iran",
+     "mongol",
+     "arab",
+     "ottoman",
+     "steppe",
+     "indonesia",
+     "vietnam"
+    ]
+   },
+   "files": 837,
+   "public": true
+  },
+  {
+   "id": "relief-asia-3",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-asia-3.tar.zst",
+   "sha256": "66a0772c6015a1feb1ec9d5c102407cdc21cae5ca97b509d7f612d3f77d4b33a",
+   "bytes": 46374794,
+   "covers": [
+    "asia"
+   ],
+   "words": {
+    "asia": [
+     "asia",
+     "china",
+     "india",
+     "japan",
+     "korea",
+     "persia",
+     "iran",
+     "mongol",
+     "arab",
+     "ottoman",
+     "steppe",
+     "indonesia",
+     "vietnam"
+    ]
+   },
+   "files": 584,
+   "public": true
+  },
+  {
+   "id": "relief-asia-4",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-asia-4.tar.zst",
+   "sha256": "6d77e11e29b116fbfadda68d9a3673a7d524e9741ab473496083db65ca6e164f",
+   "bytes": 44987858,
+   "covers": [
+    "asia"
+   ],
+   "words": {
+    "asia": [
+     "asia",
+     "china",
+     "india",
+     "japan",
+     "korea",
+     "persia",
+     "iran",
+     "mongol",
+     "arab",
+     "ottoman",
+     "steppe",
+     "indonesia",
+     "vietnam"
+    ]
+   },
+   "files": 475,
+   "public": true
+  },
+  {
+   "id": "relief-europe-1",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-1.tar.zst",
+   "sha256": "65542fd9c5bc9cd19a51ee5c393ae104a89cf2634316b5e06ca2204d034cb9eb",
+   "bytes": 46314789,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 411,
+   "public": true
+  },
+  {
+   "id": "relief-europe-2",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-2.tar.zst",
+   "sha256": "e42e5e98eda6feea8636b2d637c52766479f08a27a1aeb793a7397ec23637480",
+   "bytes": 46180013,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 390,
+   "public": true
+  },
+  {
+   "id": "relief-europe-3",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-3.tar.zst",
+   "sha256": "993c0046a1a854953a1e0932dc494891073160bdb5bf8eafcb93282de6303946",
+   "bytes": 46263651,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 429,
+   "public": true
+  },
+  {
+   "id": "relief-europe-4",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-4.tar.zst",
+   "sha256": "35e325b4e1eb01c085e1d55998869406dd680653415473d195993edbaf1c3e7c",
+   "bytes": 46265931,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 374,
+   "public": true
+  },
+  {
+   "id": "relief-europe-5",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-5.tar.zst",
+   "sha256": "2b3e788ba1aa31eb79db0375a2c7ea3a2f26fb18fc5c9b307c4980818e411629",
+   "bytes": 46269285,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 395,
+   "public": true
+  },
+  {
+   "id": "relief-europe-6",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-6.tar.zst",
+   "sha256": "95c59b0272677b6fcd59a463307ee0706edd3c3f102f63605c3717ed7003b57c",
+   "bytes": 46296204,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 470,
+   "public": true
+  },
+  {
+   "id": "relief-europe-7",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-7.tar.zst",
+   "sha256": "f2c2ebc9d9ed68d1be00a85390f987942cb517a089be925849a321655e9001c8",
+   "bytes": 46295006,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 520,
+   "public": true
+  },
+  {
+   "id": "relief-europe-8",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-europe-8.tar.zst",
+   "sha256": "d789a275a7397087fe7061ce87412abfebdeaae77e317932c780441c1d4dae11",
+   "bytes": 4656829,
+   "covers": [
+    "europe"
+   ],
+   "words": {
+    "europe": [
+     "europe",
+     "rome",
+     "britain",
+     "france",
+     "germany",
+     "spain",
+     "russia",
+     "greece",
+     "italy",
+     "ottoman",
+     "byzant"
+    ]
+   },
+   "files": 70,
+   "public": true
+  },
+  {
+   "id": "relief-low-1",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-low-1.tar.zst",
+   "sha256": "cb2979ff57eb0b6664c763acbdcbe966940b605bcb2a2033f80f9d6c194c80e7",
+   "bytes": 46371781,
+   "covers": [
+    "all"
+   ],
+   "words": {},
+   "files": 617,
+   "public": true
+  },
+  {
+   "id": "relief-low-2",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/relief-low-2.tar.zst",
+   "sha256": "6a5e42eec945fc632678212f1308bb80cd8ff960b0751da8c75c4936ce79da6e",
+   "bytes": 45797984,
+   "covers": [
+    "all"
+   ],
+   "words": {},
+   "files": 764,
+   "public": true
+  },
+  {
+   "id": "wealth",
+   "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/wealth.tar.zst",
+   "sha256": "c931ff5b4adb5adc12a309153b751ffce3bb216efde1d88b8e47e7767d18fc75",
+   "bytes": 11172056,
+   "covers": [
+    "wealth"
+   ],
+   "words": {},
+   "files": 16,
+   "public": true
+  }
+ ],
+ "private_index": "index-private.json (served through the Door, not public)"
+}
