@@ -663,13 +663,13 @@
   {
    "id": "wealth",
    "url": "https://github.com/AmbessaTrades/juju-data/releases/download/2026-11-26/wealth.tar.zst",
-   "sha256": "c931ff5b4adb5adc12a309153b751ffce3bb216efde1d88b8e47e7767d18fc75",
-   "bytes": 11172056,
+   "sha256": "790240a0c370e018e1a9cbd79c75fb9c6e128bfd320c3c0fa77fb53e6bed628c",
+   "bytes": 10963963,
    "covers": [
     "wealth"
    ],
    "words": {},
-   "files": 16,
+   "files": 8,
    "public": true
   }
  ],
